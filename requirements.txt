@@ -1,2 +1,4 @@
 faiss-cpu
 numpy 
+flask
+waitress 

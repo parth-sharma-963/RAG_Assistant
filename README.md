@@ -50,6 +50,8 @@ The system consists of several components:
 - Required packages:
   - faiss-cpu==1.7.4
   - numpy==1.24.3
+  - flask (for web interface)
+  - waitress (for production deployment)
 
 ### Installation
 
@@ -71,6 +73,7 @@ The system consists of several components:
 
 ### Running the Assistant
 
+#### Command Line Interface
 1. Run the script:
    ```
    python rag_assistant.py
@@ -78,6 +81,21 @@ The system consists of several components:
 2. The system will load documents, process them, and present a prompt for questions
 3. Type your question and press Enter
 4. To exit, type 'exit' or 'quit'
+
+#### Web Interface (New!)
+1. Run the web application:
+   ```
+   python web_app.py
+   ```
+2. Open your browser and navigate to `http://localhost:5000`
+3. Type your questions in the chat interface
+
+### Deploying with a Public URL
+To make your RAG Assistant accessible globally via a URL:
+
+1. See the `deploy_instructions.md` file for detailed deployment options
+2. Choose from multiple hosting options: Render.com (free), ngrok (temporary), Heroku (paid), or PythonAnywhere
+3. Follow the step-by-step instructions to deploy your application
 
 ## Example Queries
 
@@ -111,6 +129,6 @@ The system consists of several components:
 - Integrate with a real LLM API like Gemini 2.0
 - Add more specialized tools and expand existing tool functionality
 - Improve the answer extraction logic for complex queries
-- Develop a web interface for easier interaction
+- Enhance the web interface with additional features
 - Add document metadata extraction for better context retrieval
 - Implement streaming responses for large text generations 
