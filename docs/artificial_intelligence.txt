@@ -1,0 +1,22 @@
+Artificial Intelligence (AI) is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence. These tasks include learning from experience, understanding natural language, recognizing patterns, problem-solving, and decision-making.
+
+The concept of AI dates back to the 1950s when computer scientists began exploring the possibility of creating machines that could "think" like humans. The term "Artificial Intelligence" was coined by John McCarthy in 1956 during the Dartmouth Conference, which is widely considered the birthplace of AI as a field.
+
+There are different types of AI systems:
+
+1. Narrow AI (or Weak AI): Systems designed to perform specific tasks, such as voice recognition, image classification, or playing chess. Most current AI applications fall into this category.
+
+2. General AI (or Strong AI): Systems with generalized human cognitive abilities. When presented with an unfamiliar task, a strong AI system could find a solution without human assistance. This level of AI doesn't exist yet but remains a goal of many researchers.
+
+3. Superintelligent AI: Systems that surpass human intelligence across virtually all domains. This is currently theoretical and the subject of much debate regarding safety and ethics.
+
+Machine Learning (ML) is a subset of AI that focuses on developing algorithms that allow computers to learn from and make predictions or decisions based on data. Deep Learning, a further subset of ML, uses neural networks with many layers (hence "deep") to analyze various factors of data.
+
+AI has numerous applications across various industries, including:
+- Healthcare (diagnosis, drug discovery)
+- Finance (fraud detection, algorithmic trading)
+- Transportation (autonomous vehicles, traffic management)
+- Customer service (chatbots, recommendation systems)
+- Manufacturing (quality control, predictive maintenance)
+
+As AI continues to advance, it raises important ethical, legal, and societal questions about privacy, accountability, bias, job displacement, and more. Ensuring that AI development proceeds responsibly and benefits humanity broadly remains a crucial challenge. 

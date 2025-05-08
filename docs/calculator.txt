@@ -1,0 +1,39 @@
+Calculator Tool
+
+This tool can perform basic arithmetic calculations when provided with appropriate expressions.
+
+Examples of calculations that can be performed:
+
+1. Addition
+   - calculate 5 + 3 = 8
+   - calculate 10.5 + 20.7 = 31.2
+
+2. Subtraction
+   - calculate 10 - 4 = 6
+   - calculate 15.8 - 7.2 = 8.6
+
+3. Multiplication
+   - calculate 6 * 7 = 42
+   - calculate 3.5 * 2 = 7
+
+4. Division
+   - calculate 20 / 4 = 5
+   - calculate 10 / 3 = 3.333...
+
+5. Exponents
+   - calculate 2^3 = 8
+   - calculate 10^2 = 100
+
+6. Square Root
+   - calculate sqrt(16) = 4
+   - calculate sqrt(2) = 1.414...
+
+7. Combined Operations
+   - calculate (5 + 3) * 2 = 16
+   - calculate 10 - (4 / 2) = 8
+
+8. Percentages
+   - calculate 15% of 200 = 30
+   - calculate 7.5% of 80 = 6
+
+For more complex calculations, please provide the complete expression with proper syntax. 

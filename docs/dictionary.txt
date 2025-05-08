@@ -1,0 +1,33 @@
+Dictionary Tool
+
+This document contains definitions of key AI and machine learning terms:
+
+Artificial Intelligence (AI): A field of computer science focused on creating systems capable of performing tasks that typically require human intelligence.
+
+Machine Learning (ML): A subset of artificial intelligence that enables computers to learn from data and improve from experience without being explicitly programmed.
+
+Neural Network: Computational models inspired by the human brain's structure and function that form the foundation of deep learning.
+
+Deep Learning: A subfield of machine learning that uses neural networks with many layers to analyze various factors of data.
+
+Natural Language Processing (NLP): A field of AI focused on enabling computers to understand, interpret, and generate human language.
+
+Computer Vision: A field of AI that enables computers to derive meaningful information from digital images and videos.
+
+Reinforcement Learning: A type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward.
+
+Generative AI: AI systems that can generate new content, such as text, images, audio, or video, that wasn't explicitly programmed.
+
+Large Language Model (LLM): A type of deep learning model trained on vast amounts of text data, capable of understanding and generating human language.
+
+Transfer Learning: A machine learning method where a model developed for one task is reused as the starting point for a model on a second task.
+
+Fine-tuning: The process of taking a pre-trained model and adapting it to a specific task or domain.
+
+Supervised Learning: A machine learning approach where the algorithm is trained on a labeled dataset to predict outputs based on input features.
+
+Unsupervised Learning: A machine learning approach where the algorithm is given unlabeled data and must find patterns and relationships within it.
+
+Semi-supervised Learning: A machine learning approach that combines a small amount of labeled data with a large amount of unlabeled data during training.
+
+Retrieval-Augmented Generation (RAG): A technique that combines retrieval of relevant information from a knowledge base with generation of text using a language model. 
